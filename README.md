@@ -1,1 +1,1 @@
-# enhancedtabs
+# Enhanced Tabs
